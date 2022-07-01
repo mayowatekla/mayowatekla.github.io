@@ -1,0 +1,87 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #eef0f2; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #111D13;
+  font-size: 28ppx;
+}
+h2{
+  color: #111D13;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+p{
+  color: #111D13;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+li{
+  display : inline;
+}
+li a{
+  text-decoration: none;
+  color: #EEF0F2;;
+  font-size:1.3em;
+  padding:0.5em;
+ 
+}
+li a:hover{
+  background-color:#4c5b61;
+  
+}
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
+
+.home{
+  
+  position: relative;
+}
+
+.first-txt{
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  font-size:80px;
+}
+ul{
+  background-color: #111D13;
+  padding: 0.5em;
+}
+
+p{
+  font-size: 20px;
+  margin: 2%;
+}
+#myBtn{
+  background-color: #2c423f;
+  border: none;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10%;
+}
+.lobe{
+  padding: 0.5em;
+  
+}
+
+.one{
+  font-size:10px;
+  margin:0%;
+}
